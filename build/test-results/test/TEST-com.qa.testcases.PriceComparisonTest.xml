@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.qa.testcases.PriceComparisonTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-01-09T16:27:56" hostname="SIXT-HW-413.local" time="24.093">
+  <properties/>
+  <testcase name="getAmazonPrice" classname="com.qa.testcases.PriceComparisonTest" time="13.892"/>
+  <testcase name="getFlipkartPrice" classname="com.qa.testcases.PriceComparisonTest" time="10.033"/>
+  <testcase name="printTheResult" classname="com.qa.testcases.PriceComparisonTest" time="0.0"/>
+  <system-out><![CDATA[Iphone XR Price on Amazon is :  47900
+ Iphone XR Price on Flipkart is :  53999
+************* iPhone XR (64GB) - Yellow is cheaper on AMAZON *************
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}) on port 18239
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1578587276.511][WARNING]: FromSockAddr failed on netmask
+[1578587276.511][WARNING]: FromSockAddr failed on netmask
+Jan 09, 2020 9:57:57 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}) on port 25258
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1578587290.269][WARNING]: FromSockAddr failed on netmask
+[1578587290.269][WARNING]: FromSockAddr failed on netmask
+Jan 09, 2020 9:58:11 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
